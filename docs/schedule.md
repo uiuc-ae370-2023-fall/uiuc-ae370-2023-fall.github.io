@@ -5,28 +5,12 @@ permalink: /schedule/
 nav_order: 4
 ---
 
-## Tentative Topics
+## Topics
 
-### Introduction
-- Introduction
-- MDPs
-
-### Exact Solution Methods
-- Dynamic programming
-- Monte Carlo methods
-- TD learning
-
-### Approimate Solution Methods
-- Value function approximation
-- Policy gradient methods
-- Actor-critic methods
-- Model-based RL and online planning
-
-### Advanced Topics
-- Successor models
-- Hierarchical RL
-- Safe RL? Meta-RL?
-- Multi-agent RL
+- Function Approximation
+- Initial Value Problem
+- Boundary Value Problem
+- Initital Boundary Value Problem
 
 ## Schedule
 
