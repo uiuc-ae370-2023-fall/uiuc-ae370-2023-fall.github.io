@@ -1,10 +1,15 @@
 ---
-title: Week 1 (Introduction)
+title: Week 1 (Function Approximation)
 ---
 
-Tues Jan 17
-: **LEC 1**{: .label .label-grey }Introduction
-    : [GitHub tutorial (opt)](https://classroom.github.com/a/Svf82ZiY)
+Mon Aug 21
+: **LEC 1**{: .label .label-grey }Intro & Logistics
+    : [Setup env]({{ site.baseurl }}/resources/programming-environment); [Git & GitHub (opt)](https://classroom.github.com/a/nPPPKLMw)
 
-Thu Jan 19
-: **LEC 2**{: .label .label-grey }MDPs
+Wed Aug 23
+: **LEC 2**{: .label .label-grey }Vector Spaces
+
+Fri Aug 25
+: **LEC 3**{: .label .label-grey }Approximation Error
+    : [HW 1: Python Refresher]()
+: **Quiz 1 Assigned**{: .label .label-yellow }**HW 1 Assigned**{: .label .label-yellow }
