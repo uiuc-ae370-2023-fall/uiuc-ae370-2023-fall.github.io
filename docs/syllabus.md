@@ -7,27 +7,30 @@ nav_order: 3
 
 # Course Description
 
-This course will discuss the theory and practice of reinforcement learning (RL) with applications to control, robotics, and multi-agent systems. The goal is for students to understand: (1) key theoretical concepts, (2) basic algorithms and their implementation, and (3) when and how RL can be used for research applications. Topics include Markov decision processes (MDPs), value-based methods, policy methods, function approximation, and multi-agent reinforcement learning (MARL).
+Welcome to the beautiful world of numerical methods! This course will introduce basic techniques that underly many of the computational tools used in aerospace engineering and other related fields. Numerical methods are the centerpiece of applications like large-scale simulation of complex physical phenomena, Google's Page Rank algorithms, font design, and weather prediction (to name just a few!).  Our focus will be on how some key numerical methods work (and fail), and on how to implement these methods using code. That is, our learning outcomes are to both **understand** the mathematical properties (accuracy, stability, and general appropriateness) of a given method and be able to **implement** the method with code.
 
-**Pre-requisites:** Credit or concurrent registration in CS 446 or equivalent; STAT 400 or equivalent; proficiency with Python.
+We hope you enjoy your exploration into this beautiful and important subject! Here are some (of many) exciting example applications of numerical methods: TODO
+
+**Pre-requisites:** Credit or concurrent registration in CS 101 (or similar course), MATH 221, MATH 231, and MATH 241.
 
 # Learning Outcomes
 
-- Understand the mathematical fundamentals of key theoretical concepts in RL
-- Know how to implement common RL algorithms with code from scratch
-- Gain experience applying RL to open-ended research problems
+- Understand the mathematical fundamentals of prominent aerospace numerical methods.
+- Know how to implement and apply these methods using code.
+- Clearly communicate these methods and their application to challenging, open-ended problems through technical reports.
+- Have a growing appreciation for the beauty and power of mathematics and code.
 
 # Course Organization
+
+## Weekly Structure
+
+The course is organized around a [weekly structure]({{ site.baseurl }}/schedule) of two lectures and one lab. Lectures aim to introduce key concepts. Labs aim to give you a chance to implement those concepts in code (by starting on homework and project assignments in a group setting).
 
 ## Course Materials
 
 Links to course materials are provided at the top of the website. Links to assignments will be posted on the [Schedule]({{ site.baseurl }}/schedule) page.
 
-Lectures will draw from the following books, which are currently free in PDF form:
-- ["Reinforcement Learning: An Introduction"](http://www.incompleteideas.net/book/the-book-2nd.html) by Sutton and Barto (MIT Press, 2018)
-- ["Algorithms for Decision Making"](https://algorithmsbook.com/#) by Kochenderfer, Wheeler, and Wray (MIT Press, 2022)
-
-Additional references that you might find helpful are listed [below](#additional-references).
+There is no textbook for this course. The lectures are designed to be self contained with supplementary material occassionaly covered in PDF notes. Additional references on numerical methods that you might find helpful are listed [below](#additional-references).
 
 ## Course Tools
 
@@ -36,6 +39,8 @@ Links to course tools are provided at the top of the website.
 ### Campuswire
 
 All announcements and discussions will be handled on Campuswire. We recommend you set up notifications to keep up with announcements.
+
+Any questions about concepts, assignments, or course material should be made public to avoid answering the same question multiple times. Feel free to post anonymously to your peers or anonymously to everyone (including instructors) as desired. Messages regarding personal issues (e.g., sickness, leave, individual grades) should be messaged privately to the instructor(s).
 
 ### GitHub
 
@@ -49,27 +54,33 @@ All assignment submissions and grades will be handled on Gradescope.
 
 ### Python
 
-All coding assignments will be done with Python. Python is open-source, widely used, and has a very active support community (e.g., [stack overflow](https://stackoverflow.com/)). You are expected to already be proficient in Python.
+All coding assignments will be done with [Python](https://www.python.org/) using [IPython](https://ipython.org/) ([Jupyter](https://jupyter.org/)) notebooks. Python is open-source, widely used, and has a very active support community (e.g., [stack overflow](https://stackoverflow.com/)). You are expected to already be proficient in Python.
+
+Homework 1 is meant to be a quick refresher that gets you up-to-speed on Python for this course.
 
 See the [Resources]({{ site.baseurl }}/resources) page for resources related to coding (e.g., suggestions on setting up a [programming environment]({{ site.baseurl }}/resources/programming-environment) for this course).
 
 # Assignments
 
-**Homeworks**: Homeworks may contain a mix of analytical problems (e.g., derivations) and coding problems. You are encouraged to work together on homeworks, but each student should prepare and submit their own work. Homework that is viewed as insufficiently distinct to warrant an independent submission will not be given credit, and, depending on the situation, may be submitted as cheating via the FAIR system.
+**Quizzes**: To help you stay on top of the lecture material, there will be brief multiple choice quizzes each week. The quizzes will cover topics from the current week. They are designed to be simple, straightforward, and short (to take < 10 minutes). Think of these as ``if I am attentive during lectures for the week, then I will get a 100% on this quiz.''
 
-**Projects**: This course will involve a final project. The project will be open-ended and aims to offer you an opportunity to implement your choice of methods and apply them to a research problem of interest to you.
+Quizzes will be available at the beginning of each week and due the end of that same week.
 
-**Literature Reviews**: You will perform two literature reviews throughout the course. One will be a group assignment where you work with 2-3 others to understand and present details for a seminal paper within a current topic being discussed in class. The other will be an individual assignment where you independently identify a paper related to a topic (different from your group literature review) and present a short summary to the class (3-5 minutes). You will sign-up for topics of interest - you will only do each type of review once.
+**Homeworks**: There will a homework assignment each week, except during project weeks. Homeworks will contain a mix of analytical problems (e.g., derivations) and coding problems.
 
-Online students: for the group literature review, you will work with others but not be required to present. For the individual review, you will record the 1-slide summary to be presented in class.
+You are encouraged to work together on homeworks, but each student should prepare and submit their own work. Homework that is viewed as insufficiently distinct to warrant an independent submission will not be given credit, and, depending on the situation, may be submitted as cheating via the FAIR system.
+
+**Projects**: In place of exams, this course will involve two projects (one individual, one group). Each project is expected to take significantly more effort and critical thinking than a homework, and will be submitted as a technical report (with supplementary code). The projects will be open-ended to offer you an opportunity to design your own methods and use them to understand aerospace-relevant problems. There will be no homework due while the project is going on.
+
+While the group project will be a team effort, individual grades will be assigned based on the submitted work and peer review of individual contributions (as needed).
 
 **Drop Pollicy:** Your lowest homework grade will be dropped.
 
-**Late Policy:** Late homework and project submissions will be accepted up to 72 hours after the deadline with the following deductions: 10% (within 24 hours of the deadline), 15% (within 48 hours of the deadline), and 20% (within 72 hours of the deadline).
+**Late Policy:** Late mini-quiz submissions will not be accepted. Late homework and project submissions will be accepted up to 72 hours after the deadline with the following deductions: -10 points (within 24 hours of the deadline), -15 points (within 48 hours of the deadline), -20 points (within 72 hours of the deadline).
 
 # Grading
 
-Your final grade will calculated from homeworks (50%), the project (25%), and literature reviews (15% for group, 10% for individual). The following grading scale will be used:
+Your final grade will calculated from quizzes (5%), homeworks (35%), project 1 (25%), and project 2 (35%). The following grading scale will be used:
 
 | Grade | Point Range |
 | --- | --- |
@@ -100,8 +111,15 @@ Any student with special needs or circumstances requiring accommodation in this 
 
 # Additional References
 
-There are many additional references on reinforcement learning. A few are listed below.
-
-- ["Algorithms of Reinforcement Learning"](https://sites.ualberta.ca/~szepesva/rlbook.html) by Szepesvari (Morgan & Claypool Publishers, 2009)
-- ["Reinforcement Learning: State-of-the-Art"](https://link.springer.com/book/10.1007/978-3-642-27645-3) by Wiering and Otterlo (Spring, 2012)
-- ["Reinforcement Learning and Optimal Control"](http://www.athenasc.com/rlbook_athena.html) by Bertsekas (Athena Scientific, 2019)
+- P. Moin, Fundamentals of engineering numerical analysis, 2nd edition, Cambridge.
+  - This book was used for several years for AE 370. It covers much of the same material from lectures in an accessible manner, though with a different structure and presentation style.
+- M. T. Heath, Scientific computing: an introductory survey. McGraw-Hill.
+  - This book covers more-or-less similar material to Moin's book but with a very different tone.  It is significantly less concise, which has its advantages and disadvantages.
+- W. H. Press, B. P. Flannery, S. A. Teukolsky, & W. T. Vettering, Numerical recipes: the art of scientific computing, Cambridge.
+  - This is a very successful ``cookbook'' on basic numerical methods.  The presentation is varied, not constructed with a unified pedagological objective, so it does not make a great stand-alone textbook.  It is meant more to be a handbook for the practitioner than a textbook for a course.  However, it provides a pithy and in places brilliantly insightful analysis of some of the topics covered in this course.  It has some significant free online content, including sample codes, which might be useful: www.nr.com.
+- E. Suli, & D. Myers, An introduction to numerical analysis, Cambridge.
+  - A good book if you're looking for a more mathematical exposition of much (but not all) of the material covered here. There are some more details on topics not related to spectral methods.
+- R. J. LeVeque, Finite difference methods for ordinary and partial differential equations, SIAM.
+  - A lovely book on finite difference methods, with particular application to the second part of the course on numerically solving ordinary and partial differential equations.
+- L. N. Trefethen, Approximation theory and approximation practice, Cambridge.
+  - A book that focuses on function interpolation and approximation (the topics of the first part of this class). The text is well written and goes into much more mathematical detail than we have time for.
