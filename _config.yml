@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AE 598-RL
+title: AE 370
 email: huytran1@illinois.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Website for AE 598-RL at the University of Illinois Urbana-Champaign.
+  Website for AE 370 at the University of Illinois Urbana-Champaign.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: https://just-the-docs.github.io
-url: "https://uiuc-ae598-rl-2023-spring.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://uiuc-ae370-2023-fall.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  huytran1
 
@@ -37,17 +37,17 @@ theme: just-the-docs
 # Aux links for upper right navigation link
 aux_links:
   "Campuswire":
-    - "https://campuswire.com/c/G6BF46F7E/feed"
+    - "https://campuswire.com/c/G7D9655C9/feed"
   "GitHub":
-    - "https://github.com/uiuc-ae598-rl-2023-spring"
+    - "https://github.com/uiuc-ae370-2023-fall"
   "GitHub Classroom":
-    - "https://classroom.github.com/classrooms/119626151-uiuc-ae598-rl-2023-spring"
+    - "https://classroom.github.com/classrooms/142352779-uiuc-ae370-2023-fall"
   "Gradescope":
-    - "https://www.gradescope.com/courses/490472"
+    - "https://www.gradescope.com/courses/574378"
   "Lectures":
-    - "https://drive.google.com/drive/folders/1ss4gAHLtQXQrm35RJK2pKHzQ9w2IgUpn?usp=sharing"
-  "Media Space":
-    - "https://mediaspace.illinois.edu/channel/AE+598+2023+Spring/286337372"
+    - "https://drive.google.com/drive/folders/15M0AoGHYuFzlfZ42IZwULv3K4a1sVCag?usp=sharing"
+  # "Media Space":
+  #   - "https://mediaspace.illinois.edu/channel/AE+598+2023+Spring/286337372"
   # Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 # Collections for website data
