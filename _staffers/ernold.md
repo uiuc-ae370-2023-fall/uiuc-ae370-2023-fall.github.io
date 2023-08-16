@@ -1,9 +1,9 @@
 ---
-name: Ernold Thompson
+name: TBD
 # pronouns: he/him/his
 role: Teaching Assistant
-email: ernoldt2@illinois.edu
+email: TBD
 # website: https://tran.aerospace.illinois.edu/
 # photo: huy.jpg
-office-hours: Friday @ 11:30-12:30 (Talbot 319M)
+office-hours: TBD
 ---
