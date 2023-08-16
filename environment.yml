@@ -1,0 +1,7 @@
+name: ae370
+channels:
+  - defaults
+dependencies:
+  - python=3
+  - jupyter
+prefix: /Users/httran/opt/anaconda3/envs/ae370
