@@ -4,4 +4,6 @@ channels:
 dependencies:
   - python=3
   - jupyter
+  - numpy
+  - matplotlib
 prefix: /Users/httran/opt/anaconda3/envs/ae370
