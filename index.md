@@ -12,7 +12,7 @@ nav_order: 1
 
 **Time:** Monday, Wednesday, Friday @ 2:00 pm - 2:50 pm
 
-**Location:** 138 [Henry Administration Building](https://goo.gl/maps/sQH8ru7nTNa2eqfM9)
+**Location:** 3101 [Sidney Lu MEB](https://goo.gl/maps/NLmVF9UbZ1ai8cz97)
 
 Welcome to the beautiful world of numerical methods! This course will introduce basic techniques that underly many of the computational tools used in aerospace engineering and other related fields. See the [syllabus]({{ site.baseurl }}/syllabus) for more details.
 
