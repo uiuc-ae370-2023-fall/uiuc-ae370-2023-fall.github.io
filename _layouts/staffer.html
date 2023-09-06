@@ -21,6 +21,8 @@
   {% if page.ca-hours %}
   <p class="staffer-meta">CA Hours: {{ page.ca-hours | markdownify | strip_html }}</p>
   {% endif %}
+  {% if page.python-hours %}
+  <p class="staffer-meta">Python Help Hours: {{ page.ca-hours | markdownify | strip_html }}</p>
+  {% endif %}
   {{ content }}
-</div>
 </div>
