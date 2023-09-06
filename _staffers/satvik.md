@@ -1,5 +1,5 @@
 ---
-name: TBD
+name: Satvik Chennareddy
 # pronouns: he/him/his
 role: Course Assistant
 # email: tbd@illinois.edu
