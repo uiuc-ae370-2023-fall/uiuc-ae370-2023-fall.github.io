@@ -8,7 +8,7 @@ Mon Oct 9
 : **Project 1 Team Survey Assigned**{: .label .label-yellow }**Quiz 7 Assigned**{: .label .label-yellow }
 
 Wed Oct 11
-: **Lab**{: .label .label-purple }[Project 1 (Group)]()
+: **Lab**{: .label .label-purple }[Project 1 (Group)](https://classroom.github.com/a/iHQDE6aT)
 : **Project 1 (Group) Assigned**{: .label .label-yellow }**Quiz 7 Due**{: .label .label-red }
 
 Fri Oct 13
