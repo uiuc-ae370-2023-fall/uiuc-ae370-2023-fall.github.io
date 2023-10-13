@@ -13,4 +13,3 @@ Wed Oct 11
 
 Fri Oct 13
 : **Lab**{: .label .label-purple }Project 1 (Group)
-: **Project 1 (Individual) Due**{: .label .label-red }

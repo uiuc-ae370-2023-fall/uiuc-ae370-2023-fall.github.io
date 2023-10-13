@@ -4,6 +4,7 @@ title: Week 9
 
 Mon Oct 16
 : **Lab**{: .label .label-purple }Project 1 (Group)
+: **Project 1 (Individual) Due**{: .label .label-red }
 
 Wed Oct 18
 : **Lec 16**{: .label .label-grey }BVP (Spectral 1)
